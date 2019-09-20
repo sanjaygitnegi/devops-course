@@ -1,1 +1,2 @@
 my 6th file
+testin stash by modifying a file
